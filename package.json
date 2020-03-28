@@ -1,0 +1,26 @@
+{
+  "name": "bardscards",
+  "version": "1.0.0",
+  "description": "A bards game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo test"
+  },
+  "author": "Daniel Peck",
+  "license": "ISC",
+  "dependencies": {
+    "browser-sync": "^2.26.7",
+    "express": "^4.17.1",
+    "express-handlebars": "^4.0.0",
+    "handlebars": "^4.7.3"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-nodemon": "^2.5.0",
+    "gulp-sass": "^4.0.2",
+    "mocha": "^7.1.1",
+    "node-sass": "^4.13.1",
+    "nodemon": "^2.0.2",
+    "should": "^13.2.3"
+  }
+}
